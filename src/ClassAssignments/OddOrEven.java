@@ -1,3 +1,5 @@
+package ClassAssignments;
+
 import java.util.Scanner;
 
 public class OddOrEven {
